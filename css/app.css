@@ -1,0 +1,16 @@
+    table.rooster thead tr th {
+      text-align: left;
+      padding: 3px;
+    }
+
+    table.rooster tbody tr td {
+      text-align: right;
+      padding: 3px;
+    }
+    table.rooster tbody tr td:last-child {
+      text-align: left;
+    }
+
+    .important {
+      font-weight: bold;
+    }
